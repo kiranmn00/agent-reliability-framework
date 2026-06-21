@@ -1,0 +1,11 @@
+[
+  {
+    "task": "sync issue detected"
+  },
+  {
+    "task": "LOS alarm received"
+  },
+  {
+    "task": "inventory mismatch detected"
+  }
+]
